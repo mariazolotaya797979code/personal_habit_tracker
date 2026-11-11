@@ -1,2 +1,5 @@
 node_modules
 ИНСТРУКЦИЯ.md
+docs/demo/_tmp/
+docs/demo/storage.json
+docs/demo/*.webm

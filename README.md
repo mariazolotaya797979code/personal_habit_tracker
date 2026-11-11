@@ -4,6 +4,20 @@
 
 Фон живой и объёмный — глянцевые шарики в воде, отдельная позитивная сцена на каждый день недели. Отметка — это пузырёк, который превращается в улыбающийся шарик.
 
+## Видео-демо
+
+30-секундный проход: лендинг → «Сегодня» → отметка привычки → список привычек → календарь → статистика.
+
+<p align="center">
+  <a href="docs/demo/demo.mp4" title="Открыть видео-демо">
+    <img src="docs/screenshots/today.webp" alt="Смотреть 30-секундное видео-демо приложения" width="100%">
+  </a>
+</p>
+
+<p align="center"><a href="docs/demo/demo.mp4"><strong>▶ Смотреть видео (demo.mp4)</strong></a></p>
+
+<video src="docs/demo/demo.mp4" controls width="100%" preload="metadata" poster="docs/screenshots/today.webp"></video>
+
 ## Как выглядит
 
 <p align="center">
@@ -39,6 +53,12 @@
 <p align="center">
   <img src="docs/screenshots/today-mobile.webp" alt="Дашборд «Сегодня» на телефоне с нижней навигацией" width="390">
 </p>
+
+Тот же скринкаст — лендинг, дашборд, привычки, календарь и статистика:
+
+<p align="center"><a href="docs/demo/demo.mp4"><strong>▶ Смотреть видео-демо (30 сек)</strong></a></p>
+
+<video src="docs/demo/demo.mp4" controls width="100%" preload="metadata" poster="docs/screenshots/landing.webp"></video>
 
 ## Что умеет
 
